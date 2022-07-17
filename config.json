@@ -1,0 +1,9 @@
+{
+    "bstConfigPath": "C:\\ProgramData\\BlueStacks_nxt\\bluestacks.conf",
+    "targets": [
+        {
+            "name": "bst.feature.macros",
+            "value": "1"
+        }
+    ]
+}
